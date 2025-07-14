@@ -3,8 +3,8 @@
 ## Screenshot<br>
 ![Screenshot](./images/img1.png)
 
-![Solution](#) <br>
-![Live Site](#) <br>
+![Solution](https://github.com/nightfoxstarfox/QR-code-component-solution/blob/main/index.html) <br>
+![Live Site](https://nightfoxstarfox.github.io/QR-code-component-solution/) <br>
 
 ## My process
 
@@ -31,6 +31,6 @@ After discovering the power of these properties, `margin` and `padding` became u
 esse site me ajudou a lembrar de algums tags html: ![LINK](https://web.dev/learn/html/)
 
 ## Author
-- Website - [nightfoxstarfox](https://www.your-site.com)
+- Website - [nightfoxstarfox]([https://www.your-site.com](https://nightfoxstarfox.github.io/QR-code-component-solution/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
