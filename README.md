@@ -4,7 +4,8 @@
 ![Screenshot](./images/img1.png)
 
 ![Solution](https://github.com/nightfoxstarfox/QR-code-component-solution/blob/main/index.html) <br>
-![Live Site](https://nightfoxstarfox.github.io/QR-code-component-solution/) <br>
+![Live Site](https://nightfoxstarfox.github.io/QR-code-component-solution/)
+
 
 ## My process
 
